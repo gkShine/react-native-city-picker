@@ -1,6 +1,6 @@
 {
     "name": "react-native-city-picker",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "a three-level linkage selector",
     "main": "index.js",
     "scripts": {
@@ -28,7 +28,7 @@
       "react-native": ">=0.42.0"
     },
     "dependencies": {
-        "react-native-scrollable-tab-view": "^0.10.0",
-        "react-native-style-adaptive": "^1.1.5"
+        "react-native-scrollable-tab-view-forked": "^1.1.1",
+        "react-native-style-adaptive": "^1.1.7"
     }
   }
