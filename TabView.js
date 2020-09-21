@@ -8,7 +8,7 @@ import {
     ActivityIndicator,
     StyleSheet
 } from 'react-native'
-import ScrollAbleTabView from 'react-native-scrollable-tab-view'
+import ScrollAbleTabView from 'react-native-scrollable-tab-view-forked'
 import { px2dp, isIPhoneX, getBottomSpace, deviceWidth, isIos } from 'react-native-style-adaptive'
 
 class Tab extends PureComponent {
